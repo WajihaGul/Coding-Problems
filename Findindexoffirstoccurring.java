@@ -1,4 +1,4 @@
-public class Findindextoffirstoccurring {
+public class Findindexoffirstoccurring {
         public static void main(String[] args) {
         String haystack = "hello";
         String needle = "ll";
